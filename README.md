@@ -23,10 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1835" height="2541" alt="image" src="https://github.com/user-attachments/assets/939f3fa5-d36a-4949-8ce0-af91ba653f61" />
+
+
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-master-FhxnKYq9Pw
+- Live Site URL: https://manjirigole.github.io/fylo-landing-page-with-two-column-layout-master/
 
 ## My process
 
@@ -40,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor -
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
